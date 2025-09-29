@@ -1,13 +1,12 @@
-# ✨ Olá, eu sou a Hanna 😄  
+# ✨ Olá, eu sou a Hanna  
 
 🎓 Estudante de **Sistemas para Internet**  
 💻 Desenvolvedora **Full-Stack** apaixonada por tecnologia  
-🤖 Explorando **Inteligência Artificial**, **Machine Learning** e **Automação**  
 🚀 Sempre em busca de novos desafios e aprendizados  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## Tecnologias & Ferramentas  
 <div style="display: inline_block"><br>
   <img align="center" alt="hanna-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="hanna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,12 +21,12 @@
 </div>
 <br>
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannasabrynna&layout=compact&theme=radical)
 
 
-## 📫 Vamos nos conectar!
+## Vamos nos conectar!
 <div> 
 <a href="https://www.linkedin.com/in/hanna-sabrynna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a> 
 <a href = "mailto:hannasabrynnapereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=" target="_blank"></a> <br>
